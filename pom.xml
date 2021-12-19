@@ -11,7 +11,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.plugin>3.8.0</maven.compiler.plugin>
 		<maven.war.plugin>2.3</maven.war.plugin>
-		<log4j2-core.version>2.11.1</log4j2-core.version>
+		<log4j2-core.version>2.17.0</log4j2-core.version>
 		<disruptor.version>3.4.2</disruptor.version>
 		<javax-mail.version>1.4</javax-mail.version>
 		<smtp.version>1.4.5</smtp.version>
@@ -25,7 +25,7 @@
 		<jackson.databind.version>2.9.8</jackson.databind.version>
 		<spring.version>5.1.5.RELEASE</spring.version>
 		<spring.context.version>5.1.5.RELEASE</spring.context.version>
-		<spring.webmvc.version>5.1.5.RELEASE</spring.webmvc.version>
+		<spring.webmvc.version>5.2.15.RELEASE</spring.webmvc.version>
 		<spring.data.jpa.version>2.1.5.RELEASE</spring.data.jpa.version>
 		<spring.test.version>5.1.5.RELEASE</spring.test.version>
 		<hibernate-validator.version>6.0.15.Final</hibernate-validator.version>
@@ -33,8 +33,8 @@
 		<glassfish-javax.el.version>3.0.0</glassfish-javax.el.version>
 		<javax.annotation-api.version>1.3.2</javax.annotation-api.version>
 		<javax.ws.rs.version>2.1.1</javax.ws.rs.version>
-		<io.springfox.version>2.9.2</io.springfox.version>
-		<spring.security.version>5.1.4.RELEASE</spring.security.version>
+		<io.springfox.version>2.10.0</io.springfox.version>
+		<spring.security.version>5.2.9.RELEASE</spring.security.version>
 	</properties>
 
 	<dependencies>
